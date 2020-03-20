@@ -1,1 +1,3 @@
-# idea_codestyle
+# IDEA codestyle
+
+Copied my current Touchstone codestyle config
